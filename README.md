@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JimmyJvR
 - 👀 I’m interested in R-programming & Data-Analysis
-- 🌱 I’m currently learning SQL, Data-Analysing project and Bayes.
+- 🌱 I’m currently learning SQL, Data-Analysing projects and Bayes.
 - 💞️ I’m looking to collaborate on interesting projects with impact.
 - 📫 How to reach me jljvr@yahoo.com
 
